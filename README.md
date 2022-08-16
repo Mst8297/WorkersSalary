@@ -1,4 +1,5 @@
 # WorkersSalary
+Authors: Ester Moiseyev, Yogev Tamir
 This program allows us to list employees. You can enter an employee manually or enter a list of 10000 employees.
 Currently the 10000 employees can be added randomly.
 After adding an employee in any way, the user can select one employee from the list and calculate the tax that the employee must pay according to his salary.
